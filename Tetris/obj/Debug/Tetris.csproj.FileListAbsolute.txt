@@ -1,0 +1,15 @@
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\App.g.cs
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\MainWindow.baml
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.g.resources
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+c:\users\scam\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Scam\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Scam\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
